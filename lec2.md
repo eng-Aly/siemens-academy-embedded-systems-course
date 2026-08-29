@@ -1,5 +1,5 @@
 # **Revision**
-# CPU arch.
+# CPU components.
 - ALU
 - Control Unit
 - GPRs (General Purpose Registers)
@@ -12,7 +12,7 @@ high-speed internal CPU storage locations used to hold data, memory addresses, a
 registers that store current state or results **indicators** of operations 
 
 # Instruction Life Cycle
-fetch->Decode->Execute->(Memory)
+fetch->Decode->Execute->(Memory-not neccessary in all MCUs)
 
 ---
 
